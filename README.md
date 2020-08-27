@@ -34,3 +34,6 @@ config.url= Connection string to the database
 config.user= Access User
 
 
+# After that, you can deploy the application to a server with a Java container like Tomcat.
+
+
